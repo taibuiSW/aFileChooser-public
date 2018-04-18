@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rogue/Documents/eplus/pg-network-android/aFileChooser/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ko/values-ko.xml",
+            "map": [
+                {
+                    "source": "/Users/rogue/Documents/eplus/pg-network-android/aFileChooser/build/intermediates/packaged_res/debug/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,152,210",
+                        "endColumns": "45,50,57,57",
+                        "endOffsets": "96,147,205,263"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,152,311",
+                        "endColumns": "45,50,57,57",
+                        "endOffsets": "96,147,205,364"
+                    }
+                },
+                {
+                    "source": "/Users/rogue/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/e7a9e3fd355ed1806f2fdfd0e0257314/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endColumns": "100",
+                        "endOffsets": "306"
+                    }
+                }
+            ]
+        }
+    ]
+}
